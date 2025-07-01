@@ -43,6 +43,6 @@ A comprehensive Employee Management System built with the MERN stack (MongoDB, E
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
-   cd employee-management-system
+   git https://github.com/MahmoudElhefnawyy/Freelancer-Project-Training
+   cd server
    ```
