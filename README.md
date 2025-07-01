@@ -46,3 +46,7 @@ A comprehensive Employee Management System built with the MERN stack (MongoDB, E
    git https://github.com/MahmoudElhefnawyy/Freelancer-Project-Training
    cd server
    ```
+### 🙏 Acknowledgments
+**Special thanks to all contributors and open-source libraries used in this project**
+
+**Inspired by modern HR management systems and built for learning and scalability**
